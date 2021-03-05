@@ -2,11 +2,8 @@
 	"name": "ESE_IDS_SNK_DimensionsFLW_CORE_SQL",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "synapsecicd-WorkspaceDefaultSqlServer",
-			"type": "LinkedServiceReference",
-			"parameters": {
-				"DBName": "SoccerEvents"
-			}
+			"referenceName": "AzureSynapseAnalytics",
+			"type": "LinkedServiceReference"
 		},
 		"folder": {
 			"name": "Europe Soccer Events"
