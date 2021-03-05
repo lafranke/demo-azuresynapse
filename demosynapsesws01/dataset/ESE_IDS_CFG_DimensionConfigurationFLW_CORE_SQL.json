@@ -2,7 +2,7 @@
 	"name": "ESE_IDS_CFG_DimensionConfigurationFLW_CORE_SQL",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "synapsecicd-WorkspaceDefaultSqlServer",
+			"referenceName": "AzureSynapseAnalytics",
 			"type": "LinkedServiceReference"
 		},
 		"folder": {
