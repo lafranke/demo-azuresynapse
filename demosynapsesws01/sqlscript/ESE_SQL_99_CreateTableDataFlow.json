@@ -10,8 +10,8 @@
 				"language": "sql"
 			},
 			"currentConnection": {
-				"name": "SoccerEvents",
-				"type": "SqlPool"
+				"poolName": "dedicatedSQL",
+				"databaseName": "dedicatedSQL"
 			}
 		},
 		"type": "SqlQuery"
