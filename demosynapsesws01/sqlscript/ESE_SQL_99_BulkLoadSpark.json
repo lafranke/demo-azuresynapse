@@ -10,8 +10,8 @@
 				"language": "sql"
 			},
 			"currentConnection": {
-				"poolName": "dedicatedSQL",
-				"databaseName": "dedicatedSQL"
+				"poolName": "Built-in",
+				"databaseName": "master"
 			}
 		},
 		"type": "SqlQuery"
